@@ -1,0 +1,131 @@
+body{
+    width: 100%;
+    height: 1000px;
+    font-family: 'Finlandica', sans-serif;
+    margin: 0;
+}
+.banner-part{
+    width: 100%;
+    height: 80%;
+    color: rgb(245, 245, 243);
+    font-weight: 800;
+    font-size: 25px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(images/donation13.jpg);
+    background-position: center;
+    background-size: cover;
+  
+}
+.container{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    text-align: center;
+    padding-top: 15%;
+}
+.link{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 10px 10px;
+    color: azure;
+}
+span{
+    color: rgb(234, 166, 118);
+}
+p{
+    font-size: 16px;
+}
+.box{
+    width: 200px;
+    height: 100px;0px -5px 10px 0px rgba(0, 0, 0, 0.5)
+    padding: 5px 5px;
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-left: 80px;
+    color: gray;
+    background-color: #FBFBFB;
+    margin-right: 10px;
+}
+.title{
+    background-color: #FFEEEE;
+    border: 5px solid red;
+}
+hr{
+    width: 50%;
+    height: 10px;
+    color: gray;
+}
+.text-color{
+    color: gray;
+}
+span{
+    color: gray;
+}
+.education{
+    width: 100%;
+    display: flex;
+}
+.shadow1{
+    box-shadow: 10px 10px 10px #55def0;
+    padding: 10px 10px;
+    border: 1px solid red;
+    background-color: #EDF5F6;
+    margin: 5%;
+}
+.shadow2{
+    box-shadow: 10px 10px 10px #0e9aac;
+    padding: 10px 10px;
+    border: 1px solid red;
+    margin: 5%;
+    background-color: #FFEEEE;
+}
+.shadow3{
+    box-shadow: 10px 10px 10px #0e7684;
+    padding: 10px 10px;
+    border: 1px solid red;
+    margin: 5%;
+    background-color: #FFF4D6;
+}
+
+#flood{
+    width: 80%;
+    margin-left: 500px;
+    padding-right: 8%;
+}
+#update{
+    text-align: center;
+    margin: 10%;
+}
+#email{
+    width: 100%;
+    height: 100px;
+    background-color: #FFF4D6;
+    padding-top: 100px;
+    border: 2px solid rgb(109, 12, 12);
+}
+#subscribe{
+    text-decoration: none;
+    background-color: brown;
+    padding: 12px 20px 12px;
+    color: azure;
+}
+input{
+    border: 1px solid red;
+    width: 30%;
+    height: 40px;
+}
+#footer{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(46, 45, 45);
+    color: #FFEEEE;
+    text-align: center;
+    padding-top: 50px;
+}
+#Humble{
+    color: rgb(250, 22, 22);
+}
